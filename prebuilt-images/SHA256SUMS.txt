@@ -1,0 +1,3 @@
+0aedbc0abbe69e3a238032545f77732c6ebda9517e8569cfe13dfb3a448fdd76  firmware-q10-lora-communicator-2.8.3.b2517c1.hex
+fbec361f3d6b6175d4f2a1f62d09cdd7bb3f923009616ea1312d15c511a7ce4d  firmware-q10-lora-communicator-2.8.3.b2517c1.uf2
+c598e01a2741429b6e2a43f002a373a96b231b7f25c9296553cf1d322efc3326  firmware-q10-lora-communicator-2.8.3.b2517c1.zip
